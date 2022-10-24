@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    padding: 50px;
+}
+
+img {
+    height: 20vw;
+    width: 20vw;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h4 {
+    font-size: clamp(1rem, 3rem, 5rem);
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.button-container {
+    display: inline-flex;
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}

@@ -1,0 +1,22 @@
+:root {
+    --fulvous: rgb(232, 135, 30);
+    --carolina-blue: rgb(82, 153, 211);
+    --brik-red: rgb(195, 60, 84);
+    --space-cadet: rgb(45, 49, 66);
+    --tea-green: rgb(198, 235, 190);
+}
+
+@font-face {
+    font-family: 'Anton';
+    src: url('fonts/Anton/anton.ttf');
+}
+
+@font-face {
+    font-family: 'Kanit';
+    src: url('fonts/Kanit/Kanit-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Taviraj';
+    src: url('fonts/Taviraj/Taviraj-Bold.ttf');
+}
